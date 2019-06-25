@@ -1,2 +1,6 @@
 # 3D_Earth
-My first proj about 3D earth
+
+> A simple display of 3D Earth (idea by [webgl-globe](https://github.com/dataarts/webgl-globe)) 
+
+
+![]()
