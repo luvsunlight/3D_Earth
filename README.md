@@ -2,6 +2,9 @@
 
 > A simple display of 3D Earth (idea by [webgl-globe](https://github.com/dataarts/webgl-globe)) 
 
+## Techs
+* [three.js](https://threejs.org/)
+
 ## Screenshots
 
 > Loading 
